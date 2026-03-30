@@ -1,4 +1,4 @@
-# 👋 Hola, soy Sharikg Pérez 🚀
+# 👋 Hola, soy Sharikg Pérez 
 
 <p>
   <b>"Todo gran sistema comienza con una sola línea de código."</b>
