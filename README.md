@@ -4,32 +4,13 @@
 
 <p align="center">
   <strong>Systems Engineer & Data Scientist | Web & AI Developer</strong><br>
-  <i>"Transformando la complejidad de los datos en la elegancia de soluciones seguras que impactan el mundo."</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BASED%20IN-BARRANQUILLA%2C%20CO-black?style=for-the-badge&logo=google-maps&logoColor=white">
-  <img src="https://img.shields.io/badge/STUDYING-UNINORTE-black?style=for-the-badge&logo=bookstack&logoColor=white">
-  <img src="https://img.shields.io/badge/CURRENT%20ROLE-COO%20WEB-black?style=for-the-badge&logo=codeforces&logoColor=white">
-</p>
-
----
-
-
-
-
-
-
-# 👋 Hola, soy **Sharikg Pérez** 🚀
-
-<p align="center">
-  <img src="https://img.shields.io/badge/INGENIERA%20DE%20SISTEMAS-EDF2F4?style=for-the-badge&logoColor=2B2D42" alt="Ingeniera de Sistemas" />
-  <img src="https://img.shields.io/badge/CIENTÍFICA%20DE%20DATOS-EDF2F4?style=for-the-badge&logoColor=2B2D42" alt="Científica de Datos" />
-  <img src="https://img.shields.io/badge/WEB%20%26%20AI%20DEVELOPER-EDF2F4?style=for-the-badge&logoColor=2B2D42" alt="Web & AI Developer" />
-</p>
-
-<p align="center">
   <i>"Todo gran sistema comienza con una sola línea de código."</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BASED%20IN-BARRANQUILLA%2C%20CO-FFB6C1?style=for-the-badge&logo=google-maps&logoColor=black&labelColor=FFB6C1">
+  <img src="https://img.shields.io/badge/STUDYING-UNINORTE-FFB6C1?style=for-the-badge&logo=bookstack&logoColor=black&labelColor=FFB6C1">
+  <img src="https://img.shields.io/badge/CURRENT%20ROLE-COO%20WEB-FFB6C1?style=for-the-badge&logo=codeforces&logoColor=black&labelColor=FFB6C1">
 </p>
 
 ---
