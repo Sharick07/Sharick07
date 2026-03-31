@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Sharikg Pérez</h1>
+  <h1 align="center">SHARIKG PÉREZ</h1>
 </p>
 
 <p align="center">
