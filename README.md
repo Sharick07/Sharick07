@@ -1,83 +1,86 @@
-# 👋 Hola, soy Sharikg Pérez 
+# 👋 Hola, soy **Sharikg Pérez** 🚀
 
-<p>
-  <b>"Todo gran sistema comienza con una sola línea de código."</b>
+<p align="center">
+  <img src="https://img.shields.io/badge/INGENIERA%20DE%20SISTEMAS-EDF2F4?style=for-the-badge&logoColor=2B2D42" alt="Ingeniera de Sistemas" />
+  <img src="https://img.shields.io/badge/CIENTÍFICA%20DE%20DATOS-EDF2F4?style=for-the-badge&logoColor=2B2D42" alt="Científica de Datos" />
+  <img src="https://img.shields.io/badge/WEB%20%26%20AI%20DEVELOPER-EDF2F4?style=for-the-badge&logoColor=2B2D42" alt="Web & AI Developer" />
 </p>
 
----
-
-### 💻 Tech Stack | Mi Arsenal Tecnológico
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="babel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+<p align="center">
+  <i>"Todo gran sistema comienza con una sola línea de código."</i>
 </p>
-
-#### **🎨 Frontend**
-![React](https://img.shields.io/badge/REACT-FF69B4?style=for-the-badge&logo=react&logoColor=white) ![Tailwind](https://img.shields.io/badge/TAILWIND-FF69B4?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white)
-
-#### **💬 Languages**
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-FFA500?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-FFA500?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/PYTHON-FFA500?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/JAVA-FFA500?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
 ### 🙋‍♀️ Sobre mí | ABOUT ME
 
-Soy estudiante de **Ingeniería de Sistemas y Ciencia de Datos** en la Universidad del Norte. Me especializo en crear aplicaciones intuitivas y bien estructuradas, aplicando nuevas tecnologías en proyectos reales que impacten positivamente a las personas.
+Soy estudiante de **Ingeniería de Sistemas y Ciencia de Datos** en la Universidad del Norte. Me especializo en crear aplicaciones intuitivas, seguras y bien estructuradas, integrando Inteligencia Artificial para resolver problemas reales y generar un impacto positivo.
 
 ---
 
-### 🔭 Proyectos Profesionales | CURRENT PROJECTS
+### 🔭 Proyectos Profesionales y Actuales | WORKING ON
 
-* 🔗 **CooWeb Platforms**: Gestión integral y administración estratégica de plataformas web impulsadas con Inteligencia Artificial.
-* 🛡️ **Arquitecturas Web**: Fortalecimiento de la presencia digital y organización de información técnica de alto nivel.
+#### 🔗 **CooWeb Platforms**
+> Gestión integral y administración estratégica de plataformas web corporativas impulsadas con IA.
 
----
-
-### 🌱 Aprendizaje Continuo | CONTINUOUS LEARNING
-
-* 📊 **Análisis de Datos**: Modelado estadístico y visualización de datos de alto impacto.
-* 🧠 **React Patterns**: Profundización en hooks avanzados y optimización de interfaces.
-* 🧪 **IA & ML**: Integración de soluciones inteligentes en el desarrollo web.
+#### 🎮 **Game Dev Labs**
+> Colección de videojuegos experimentales desarrollados con Python/Java enfocados en lógica y UX.
 
 ---
 
-### 🚀 Contribuciones | CONTRIBUTIONS
+### 🌱 Aprendizaje y Especialización | LEARNING
 
-* **ACM Uninorte Website**: Colaboración en el desarrollo del sitio oficial de la comunidad de computación.
-* 🛡️ **CyberFine-Track**: Proyecto enfocado en la gestión inteligente y seguridad de datos.
+* 📊 **Análisis & Visualización de Datos**
+* 🧠 **React Patterns** y Arquitectura **Next.js**
+* 🧪 **Machine Learning (ML)** aplicado
+* 🦾 **Inteligencia Artificial (AI)**
 
 ---
 
-### 🌎 Socials & Contact
+### 💻 Stack de Desarrollo | TECH STACK
 
 <p align="left">
-  <a href="https://linkedin.com/in/sharikc-perez" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
-  </a>
-  <a href="https://github.com/Sharick07" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
-  </a>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-fdfcfc?style=flat-square&logo=javascript&logoColor=b1b1b1" alt="javascript" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-fdfcfc?style=flat-square&logo=typescript&logoColor=b1b1b1" alt="typescript" />
+  <img src="https://img.shields.io/badge/PYTHON-fdfcfc?style=flat-square&logo=python&logoColor=b1b1b1" alt="python" />
+  <img src="https://img.shields.io/badge/JAVA-fdfcfc?style=flat-square&logo=java&logoColor=b1b1b1" alt="java" />
+  <img src="https://img.shields.io/badge/REACT-fdfcfc?style=flat-square&logo=react&logoColor=b1b1b1" alt="react" />
+  <img src="https://img.shields.io/badge/NEXT.JS-fdfcfc?style=flat-square&logo=next.js&logoColor=b1b1b1" alt="next.js" />
+  <img src="https://img.shields.io/badge/NODE.JS-fdfcfc?style=flat-square&logo=node.js&logoColor=b1b1b1" alt="node.js" />
+  <img src="https://img.shields.io/badge/SQL-fdfcfc?style=flat-square&logo=postgresql&logoColor=b1b1b1" alt="sql" />
+  <img src="https://img.shields.io/badge/GIT-fdfcfc?style=flat-square&logo=git&logoColor=b1b1b1" alt="git" />
+  <img src="https://img.shields.io/badge/AWS-fdfcfc?style=flat-square&logo=amazon-aws&logoColor=b1b1b1" alt="aws" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharick07&show_icons=true&theme=radical&hide_border=true" alt="Stats de Sharikg" />
-</p>
+### 🚀 Contribuciones e Impacto | CONTRIBUTIONS
+
+* **IEEE Uninorte Master-Casa**: Colaboración estratégica en la estructuración de la rama estudiantil.
+* **ACM Uninorte**: Apoyo en el desarrollo del sitio oficial de la comunidad.
+* 🛡️ **CyberFine-Track**: Proyecto de gestión inteligente de multas con seguridad de datos.
+
+---
+
+### 🌎 Idiomas | LANGUAGES
+
+* **Español:** Nativo 🇨🇴
+* **English:** C1 Advanced 🇬🇧
+* **German:** B2 Professional 🇩🇪
+
+---
+
+### 📫 Contacto | GET IN TOUCH
+
+* 📧 **Email:** [sharikcperez54@gmail.com](mailto:sharikcperez54@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/sharikc-perez](https://linkedin.com/in/sharikc-perez)
 
 ---
 
 <p align="center">
-  ⭐️ From <b>Sharikg Pérez</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharick07&show_icons=true&theme=radical&hide_border=true&bg_color=FDFCF4&text_color=2B2D42&icon_color=ff69b4" alt="Stats de Sharikg" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/From-Sharikg%20Pérez-FFB6C1?style=flat&logoColor=2B2D42" alt="Sharikg Pérez Signature" />
 </p>
