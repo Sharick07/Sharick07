@@ -1,3 +1,25 @@
+<p align="center">
+  <h1 align="center">Sharikg Pérez</h1>
+</p>
+
+<p align="center">
+  <strong>Systems Engineer & Data Scientist | Web & AI Developer</strong><br>
+  <i>"Transformando la complejidad de los datos en la elegancia de soluciones seguras que impactan el mundo."</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BASED%20IN-BARRANQUILLA%2C%20CO-black?style=for-the-badge&logo=google-maps&logoColor=white">
+  <img src="https://img.shields.io/badge/STUDYING-UNINORTE-black?style=for-the-badge&logo=bookstack&logoColor=white">
+  <img src="https://img.shields.io/badge/CURRENT%20ROLE-COO%20WEB-black?style=for-the-badge&logo=codeforces&logoColor=white">
+</p>
+
+---
+
+
+
+
+
+
 # 👋 Hola, soy **Sharikg Pérez** 🚀
 
 <p align="center">
