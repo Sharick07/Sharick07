@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/BASED%20IN-BARRANQUILLA%2C%20CO-FFB6C1?style=for-the-badge&logo=google-maps&logoColor=black&labelColor=FFB6C1">
   <img src="https://img.shields.io/badge/STUDYING-UNINORTE-FFB6C1?style=for-the-badge&logo=bookstack&logoColor=black&labelColor=FFB6C1">
-  <img src="https://img.shields.io/badge/CURRENT%20ROLE-COO%20WEB-FFB6C1?style=for-the-badge&logo=codeforces&logoColor=black&labelColor=FFB6C1">
+  <img src="https://img.shields.io/badge/CURRENT%20ROLE-COOWEB-FFB6C1?style=for-the-badge&logo=codeforces&logoColor=black&labelColor=FFB6C1">
 </p>
 
 ---
