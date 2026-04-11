@@ -35,7 +35,6 @@ Soy estudiante de **Ingeniería de Sistemas y Ciencia de Datos** en la Universid
 
 * 📊 **Análisis & Visualización de Datos**
 * 🧠 **React Patterns** y Arquitectura **Next.js**
-* 🧪 **Machine Learning (ML)** aplicado
 * 🦾 **Inteligencia Artificial (AI)**
 
 ---
@@ -59,17 +58,16 @@ Soy estudiante de **Ingeniería de Sistemas y Ciencia de Datos** en la Universid
 
 ### 🚀 Contribuciones e Impacto | CONTRIBUTIONS
 
-* **IEEE Uninorte Master-Casa**: Colaboración estratégica en la estructuración de la rama estudiantil.
-* **ACM Uninorte**: Apoyo en el desarrollo del sitio oficial de la comunidad.
-* 🛡️ **CyberFine-Track**: Proyecto de gestión inteligente de multas con seguridad de datos.
+* **IEEE Uninorte WebMaster de CAS**: Colaboración estratégica en la estructuración de la rama estudiantil.
+
 
 ---
 
 ### 🌎 Idiomas | LANGUAGES
 
 * **Español:** Nativo 🇨🇴
-* **English:** C1 Advanced 🇬🇧
-* **German:** B2 Professional 🇩🇪
+* **English:** A2 intermedio 
+
 
 ---
 
